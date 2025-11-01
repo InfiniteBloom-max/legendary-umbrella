@@ -1,0 +1,5 @@
+# Reuirements for local testing (pc version) 
+# install with the command pip install -r reuirements.txt
+
+pyautogui >=0.9.54
+pillow >=10.0.0 # reuired by the pyautogui for screenshots 

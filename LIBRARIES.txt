@@ -1,0 +1,18 @@
+# CricuitPython libraries reuired from Raspberry Pi Pico 
+# Download from: https://circuitpython.org/libraries
+
+# Copy these folders to the 'lib' folder on the CIRCUITPY drive:
+
+adafruit_hid/
+├── __init__.py
+├── keyboard.py
+├── keycode.py
+├── mouse.py
+└── keyboard_layout_us.py
+
+
+#This is  a guide for installing and setting up to make it working
+#1. Download the bundle : https://circuitpython.org/libraries
+#2. Extract the zip file 
+#3. Copy the entire 'adafruit_hid' folder to CIRCUITPY/lib
+#4. The structure should be CIRCUITPY/lib/adafruit_hid/
