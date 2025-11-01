@@ -1,5 +1,7 @@
 # USB Mouse Artist - sparkly Heart Drawer 
 
+<img width="647" height="615" alt="image" src="https://github.com/user-attachments/assets/39be765d-b3a8-40cf-ba01-f578e1b47a0f" />
+
 **Theme** HID Mouse + Keyboard Control 
 
 
@@ -50,3 +52,4 @@ paint didnt open for the first try so added a increased wait time
 
 
 This was  real game changer on learning on automation on how good and bad this can be used to I like how ppl would react to like an automation like painting a full picture just by pluggin a PICO device :)
+(Note in the code add signature I generalised and leaved it to any one intrested to add a there own letters ect )
