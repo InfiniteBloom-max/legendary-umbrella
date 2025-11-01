@@ -11,7 +11,7 @@ This project turns to use the PICO Ducky to do some thing lovely :
 3. Adds a signature for the drawing 
 4. and a uate that will motivate if you are down :)
 
-## reuirements 
+## requirements 
 
 ### Hardware 
 - **Raspberry Pi Pico** (or Pico W)
@@ -46,6 +46,7 @@ paint didnt open for the first try so added a increased wait time
 - random particle effects
 -windows automation 
 - smooth mouse movement algorithms
+
 
 
 This was  real game changer on learning on automation on how good and bad this can be used to I like how ppl would react to like an automation like painting a full picture just by pluggin a PICO device :)
