@@ -4,6 +4,7 @@
 
 **Theme** HID Mouse + Keyboard Control 
 
+https://github.com/user-attachments/assets/902ededc-c60b-4150-a59b-af9cbeeadb73
 
 ## What the script does 
 
@@ -53,6 +54,7 @@ paint didnt open for the first try so added a increased wait time
 
 This was  real game changer on learning on automation on how good and bad this can be used to I like how ppl would react to like an automation like painting a full picture just by pluggin a PICO device :)
 (Note in the code add signature I generalised and leaved it to any one intrested to add a there own letters ect )
+
 
 
 
