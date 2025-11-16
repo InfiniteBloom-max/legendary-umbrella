@@ -2,9 +2,6 @@
 
 <img width="647" height="615" alt="image" src="https://github.com/user-attachments/assets/39be765d-b3a8-40cf-ba01-f578e1b47a0f" />
 
-Vidoe of What the code does :
-[![Video](https://img.icons8.com/fluency/48/video-playlist.png)](https://hackclub.slack.com/files/U092H9HRZDE/F09Q1CA7BD3/screen_recording_2025-11-01_170926.mp4)
-
 **Theme** HID Mouse + Keyboard Control 
 
 
@@ -56,5 +53,6 @@ paint didnt open for the first try so added a increased wait time
 
 This was  real game changer on learning on automation on how good and bad this can be used to I like how ppl would react to like an automation like painting a full picture just by pluggin a PICO device :)
 (Note in the code add signature I generalised and leaved it to any one intrested to add a there own letters ect )
+
 
 
